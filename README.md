@@ -19,7 +19,7 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 
 ## 📷 Screenshot
 
-![calculatore image](image-1.png)
+![calculatore image](images/calculator.png)
 
 ## 📂 Project Structure
 
